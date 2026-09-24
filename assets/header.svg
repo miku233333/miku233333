@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="260" viewBox="0 0 1280 260" role="img" aria-labelledby="title desc">
+  <title id="title">miku233333 — Building practical software.</title>
+  <desc id="desc">AI workflows, desktop apps and self-hosted systems. A dark banner with teal accents and a connected-node illustration.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111c24" />
+      <stop offset="1" stop-color="#0d1117" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#39c5bb" />
+      <stop offset="1" stop-color="#8ae7de" />
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1278" height="258" rx="20" fill="url(#background)" stroke="#283c43" stroke-width="2" />
+  <rect x="44" y="48" width="5" height="161" rx="2.5" fill="url(#accent)" />
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="73" y="74" fill="#78dcd1" font-size="23" font-weight="600" letter-spacing="1">miku233333</text>
+    <text x="73" y="137" fill="#f0f6fc" font-size="48" font-weight="700">Building practical software.</text>
+    <text x="75" y="186" fill="#a7bac7" font-size="23">AI workflows · Desktop apps · Self-hosted systems</text>
+  </g>
+  <g fill="none" stroke="#2b7774" stroke-width="2">
+    <path d="M1007 76 L1089 130 L1181 68 M1089 130 L1181 198 M1007 194 L1089 130" />
+    <rect x="981" y="50" width="52" height="52" rx="13" fill="#142d33" />
+    <rect x="1155" y="42" width="52" height="52" rx="13" fill="#142d33" />
+    <rect x="981" y="168" width="52" height="52" rx="13" fill="#142d33" />
+    <rect x="1155" y="172" width="52" height="52" rx="13" fill="#142d33" />
+    <rect x="1051" y="92" width="76" height="76" rx="19" fill="#163c40" stroke="#5ed8cb" />
+  </g>
+  <g fill="#78dcd1">
+    <circle cx="1007" cy="76" r="5" />
+    <circle cx="1181" cy="68" r="5" />
+    <circle cx="1007" cy="194" r="5" />
+    <circle cx="1181" cy="198" r="5" />
+    <path d="M1078 117 L1067 130 L1078 143 L1083 139 L1075 130 L1083 121 Z M1100 117 L1095 121 L1103 130 L1095 139 L1100 143 L1111 130 Z" />
+  </g>
+</svg>
