@@ -1,9 +1,11 @@
-![miku233333 — Python, AI tools and NAS projects, with Miku-inspired teal accents.](assets/header.svg?v=8fd6c4c8)
+![miku233333 — AI tools and NAS projects with Hatsune Miku and flowing turquoise twin tails.](assets/header-miku.png)
 
 I build tools for AI, my NAS, and everyday tasks.
 
 ## Selected projects
 
-- [AI Agent MemoryHub](https://github.com/miku233333/aiagent-memoryhub) — A desktop memory hub for AI tools, built with FastAPI, SQLite, React, and Electron. It is currently a proof of concept.
-- [Synology NAS MCP](https://github.com/miku233333/synology-nas-mcp) — A self-hosted Python MCP server for reading files from a Synology NAS. Currently in alpha.
-- [VTC CLI](https://github.com/miku233333/vtc-cli) — An unofficial local command-line tool for accessing Moodle and MyPortal courses, assignments, and timetables.
+| Project | Description | Status |
+| --- | --- | --- |
+| [**KianCode**](https://github.com/miku233333/kiancode) | A self-hosted agent runtime with durable tasks, scoped tools, multi-agent delegation, and device workspaces.<br>TypeScript · Node.js | Open source |
+| [**Synology NAS MCP**](https://github.com/miku233333/synology-nas-mcp) | A self-hosted Python MCP server for reading files from a Synology NAS. | Alpha |
+| [**VTC CLI**](https://github.com/miku233333/vtc-cli) | A local command-line tool for accessing Moodle and MyPortal courses, assignments, and timetables. | Unofficial |
