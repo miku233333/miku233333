@@ -1,4 +1,4 @@
-![miku233333 — Python, AI tools and NAS projects, with Miku-inspired teal accents.](assets/header.svg)
+![miku233333 — Python, AI tools and NAS projects, with Miku-inspired teal accents.](assets/header.svg?v=8fd6c4c8)
 
 I build tools for AI, my NAS, and everyday tasks.
 
