@@ -6,6 +6,6 @@ I build tools for AI, my NAS, and everyday tasks.
 
 | Project | Description |
 | --- | --- |
-| [**KianCode**](https://github.com/miku233333/kiancode)<br><sub>TypeScript · Node.js · Open source</sub> | A self-hosted agent runtime with durable tasks, scoped tools, multi-agent delegation, and device workspaces. |
-| [**Synology NAS MCP**](https://github.com/miku233333/synology-nas-mcp)<br><sub>Python · MCP · Alpha</sub> | A self-hosted Python MCP server for reading files from a Synology NAS. |
-| [**VTC CLI**](https://github.com/miku233333/vtc-cli)<br><sub>Python · CLI · Unofficial</sub> | A local command-line tool for accessing Moodle and MyPortal courses, assignments, and timetables. |
+| [**KianCode**](https://github.com/miku233333/kiancode)<br><sub>TypeScript · Node.js</sub><br><sub>Open&nbsp;source</sub> | A self-hosted agent runtime with durable tasks, scoped tools, multi-agent delegation, and device workspaces. |
+| [**Synology NAS MCP**](https://github.com/miku233333/synology-nas-mcp)<br><sub>Python · MCP</sub><br><sub>Alpha</sub> | A self-hosted Python MCP server for reading files from a Synology NAS. |
+| [**VTC CLI**](https://github.com/miku233333/vtc-cli)<br><sub>Python · CLI</sub><br><sub>Unofficial</sub> | A local command-line tool for accessing Moodle and MyPortal courses, assignments, and timetables. |
