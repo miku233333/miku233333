@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="260" viewBox="0 0 1280 260" role="img" aria-labelledby="title desc">
   <title id="title">miku233333</title>
-  <desc id="desc">Python, AI tools and NAS projects. A dark banner with teal accents.</desc>
+  <desc id="desc">Python, AI tools and NAS projects. A dark banner with Miku-inspired teal accents, abstract sound waves and a small 39 motif.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#111c24" />
@@ -10,26 +10,51 @@
       <stop offset="0" stop-color="#39c5bb" />
       <stop offset="1" stop-color="#8ae7de" />
     </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#39c5bb" stop-opacity="0.9" />
+      <stop offset="1" stop-color="#39c5bb" stop-opacity="0.12" />
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#39c5bb" stop-opacity="0.09" />
+      <stop offset="1" stop-color="#39c5bb" stop-opacity="0" />
+    </radialGradient>
   </defs>
   <rect x="1" y="1" width="1278" height="258" rx="20" fill="url(#background)" stroke="#283c43" stroke-width="2" />
+  <ellipse cx="1084" cy="130" rx="190" ry="124" fill="url(#glow)" />
   <rect x="44" y="48" width="5" height="161" rx="2.5" fill="url(#accent)" />
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
-    <text x="73" y="126" fill="#f0f6fc" font-size="64" font-weight="700">miku233333</text>
+    <text x="75" y="65" fill="#39c5bb" font-size="12" font-weight="600" letter-spacing="3">CODE. CREATE. ITERATE.</text>
+    <text x="73" y="132" fill="#f0f6fc" font-size="64" font-weight="700">miku233333</text>
     <text x="75" y="181" fill="#a7bac7" font-size="23">Python · AI tools · NAS</text>
   </g>
-  <g fill="none" stroke="#2b7774" stroke-width="2">
-    <path d="M1007 76 L1089 130 L1181 68 M1089 130 L1181 198 M1007 194 L1089 130" />
-    <rect x="981" y="50" width="52" height="52" rx="13" fill="#142d33" />
-    <rect x="1155" y="42" width="52" height="52" rx="13" fill="#142d33" />
-    <rect x="981" y="168" width="52" height="52" rx="13" fill="#142d33" />
-    <rect x="1155" y="172" width="52" height="52" rx="13" fill="#142d33" />
-    <rect x="1051" y="92" width="76" height="76" rx="19" fill="#163c40" stroke="#5ed8cb" />
+  <g fill="none" stroke="url(#wave)" stroke-width="3" stroke-linecap="round">
+    <path d="M1031 77 C1009 42 951 44 947 81 C943 121 968 148 948 180 C939 194 924 204 908 208" />
+    <path d="M1149 77 C1171 42 1229 44 1233 81 C1237 121 1212 148 1232 180 C1238 190 1244 196 1250 199" />
   </g>
-  <g fill="#78dcd1">
-    <circle cx="1007" cy="76" r="5" />
-    <circle cx="1181" cy="68" r="5" />
-    <circle cx="1007" cy="194" r="5" />
-    <circle cx="1181" cy="198" r="5" />
-    <path d="M1078 117 L1067 130 L1078 143 L1083 139 L1075 130 L1083 121 Z M1100 117 L1095 121 L1103 130 L1095 139 L1100 143 L1111 130 Z" />
+  <g fill="none" stroke="#245452" stroke-width="1.5">
+    <circle cx="1090" cy="130" r="85" />
+    <path d="M992 130 H1029 M1151 130 H1188" />
   </g>
+  <rect x="1033" y="73" width="114" height="114" rx="27" fill="#142d33" stroke="#39c5bb" stroke-width="2" />
+  <g fill="none" stroke="#8ae7de" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M1068 116 L1054 130 L1068 144 M1112 116 L1126 130 L1112 144" />
+    <path d="M1080 130 V123 M1090 142 V118 M1100 136 V124" stroke="#39c5bb" />
+  </g>
+  <g fill="#39c5bb">
+    <circle cx="992" cy="130" r="3" />
+    <circle cx="1188" cy="130" r="3" />
+  </g>
+  <rect x="1122" y="78" width="13" height="3" rx="1.5" fill="#e96399" />
+  <g fill="#397a77">
+    <rect x="1039" y="220" width="3" height="6" rx="1.5" />
+    <rect x="1050" y="216" width="3" height="14" rx="1.5" />
+    <rect x="1061" y="211" width="3" height="24" rx="1.5" />
+    <rect x="1072" y="216" width="3" height="14" rx="1.5" />
+    <rect x="1083" y="219" width="3" height="8" rx="1.5" />
+    <rect x="1094" y="214" width="3" height="18" rx="1.5" />
+    <rect x="1105" y="209" width="3" height="28" rx="1.5" />
+    <rect x="1116" y="215" width="3" height="16" rx="1.5" />
+    <rect x="1127" y="220" width="3" height="6" rx="1.5" />
+  </g>
+  <text x="1211" y="230" fill="#65928f" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="500" text-anchor="middle" letter-spacing="2">39</text>
 </svg>

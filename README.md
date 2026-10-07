@@ -1,6 +1,8 @@
-![miku233333 — Python, AI tools and NAS projects.](assets/header.svg)
+![miku233333 — Python, AI tools and NAS projects, with Miku-inspired teal accents.](assets/header.svg)
 
-A few things I'm working on:
+I build tools for AI, my NAS, and everyday tasks.
+
+## Selected projects
 
 - [AI Agent MemoryHub](https://github.com/miku233333/aiagent-memoryhub) — A desktop memory hub for AI tools, built with FastAPI, SQLite, React, and Electron. It is currently a proof of concept.
 - [Synology NAS MCP](https://github.com/miku233333/synology-nas-mcp) — A self-hosted Python MCP server for reading files from a Synology NAS. Currently in alpha.
