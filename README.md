@@ -1,4 +1,4 @@
-![miku2339 — AI tools, TypeScript and Python, with Hatsune Miku and flowing turquoise twin tails.](assets/header-miku.gif?v=894ab4ca8d24)
+![miku2339 — AI tools, TypeScript and Python, with Hatsune Miku and flowing turquoise twin tails.](assets/header-miku.gif?v=ae61a9885d5d)
 
 I build tools for AI, my NAS, and everyday tasks.
 
